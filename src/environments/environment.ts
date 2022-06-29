@@ -5,5 +5,10 @@
 export const environment = {
   production: false,
   baseUserServiceUrl: 'http://localhost',
-  baseGeoServiceUrl: 'http://localhost'
+  baseGeoServiceUrl: 'http://localhost',
+  baseCustomerServiceUrl: '',
+  baseCrmServiceUrl: '',
+  baseProductServiceUrl: '',
+  baseEmailServiceUrl: '',
+  gmailRedirectUrl: ''
 };
